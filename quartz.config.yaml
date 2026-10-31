@@ -45,8 +45,8 @@ plugins:
     enabled: true
     options:
       theme: "its-theme"
-      variation: "ttrpg-wotc"
-      mode: "light"
+      variation: 
+      mode: "both"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
