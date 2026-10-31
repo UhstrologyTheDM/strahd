@@ -45,7 +45,7 @@ plugins:
     enabled: true
     options:
       theme: "its-theme.ttrpg-wotc"
-      mode: "both"
+      mode: "dark"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
