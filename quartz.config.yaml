@@ -42,6 +42,7 @@ configuration:
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-themes/core"
+    enabled: true
     options:
       theme: "its-theme.ttrpg-wotc"
       mode: "both"
