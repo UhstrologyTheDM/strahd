@@ -12,7 +12,7 @@ configuration:
     - private
     - templates
     - .obsidian
-  theme: "its-theme"
+  theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
@@ -41,6 +41,10 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: "@quartz-themes/core"
+    options:
+      theme: "its-theme.ttrpg-wotc"
+      mode: "both"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -273,6 +277,20 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: tokyo-night
+      mode: both
+      themeFonts: true
+    order: 10
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: tokyo-night
+      mode: both
+      themeFonts: true
+    order: 10
 layout:
   groups:
     toolbar:
