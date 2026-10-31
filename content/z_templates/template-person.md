@@ -2,7 +2,7 @@
 title: title
 aliases:
   - characters other name
-draft: false
+draft: true
 tags: Category/People
 MyContainer:
 char_race:

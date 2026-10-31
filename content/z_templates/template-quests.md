@@ -1,7 +1,7 @@
 ---
 tags:
   - Category/Quest
-MyContainer: 
+MyContainer:
 MyCategory:
 questObtained:
 questStatus: Not Started
@@ -10,6 +10,7 @@ questLocationObtained:
 questSessionObtained:
 questLootAvail:
 questLootEarned:
+draft: true
 ---
 # Quest Info
 

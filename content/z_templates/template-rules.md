@@ -1,6 +1,6 @@
 ---
-title: 
+title:
 tags: Category/Rules
 aliases:
-draft: false
+draft: true
 ---

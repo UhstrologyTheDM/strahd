@@ -1,8 +1,8 @@
 ---
 tags: Category/Group
-aliases: 
-draft: false
-title: 
+aliases:
+draft: true
+title:
 MyCategory: Culture
 MyContainer: "[[]]"
 ---
