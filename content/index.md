@@ -17,6 +17,7 @@ Site Map:
 Groups - cults, cultures, guilds, military organizations, religions
 - [[The Dusk Elves]]
 - [[The Vistani]]
+- [[The Keepers of the Feather]]
 
 Handouts - Any handouts the party has received
 - [[Arturi's Manuscript]] - Treatise on The Werewolf's Curse.
