@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: CoS:DftC
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -12,7 +12,7 @@ configuration:
     - private
     - templates
     - .obsidian
-  theme:
+  theme: "its-theme"
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
