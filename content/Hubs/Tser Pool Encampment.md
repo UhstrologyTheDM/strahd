@@ -11,7 +11,7 @@ MyCategory:
 
 # Description
 
-A small [[The Vistani|Vistani]] encampment, on the banks of the Ivlis River. Madam Eva lives here.
+A small [[The Vistani|Vistani]] encampment, on the banks of the Ivlis River. Madam Eva lives here.a
 
 # Notable Locations
 
