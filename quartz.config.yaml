@@ -29,7 +29,7 @@ configuration:
         secondary: "#284b63"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        textHighlight: rgba(229, 149, 149, 0.37)
       darkMode:
         light: "#161618"
         lightgray: "#393639"
@@ -39,7 +39,7 @@ configuration:
         secondary: "#7b97aa"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        textHighlight: "#7a141466"
 plugins:
   - source: "@quartz-themes/core"
     enabled: false
