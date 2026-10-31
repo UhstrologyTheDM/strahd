@@ -41,12 +41,6 @@ configuration:
         highlight: "#7a141466"
         textHighlight: "#7a141466"
 plugins:
-  - source: "@quartz-themes/core"
-    enabled: false
-    options:
-      theme: "its-theme"
-      variation: 
-      mode: "both"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -119,7 +113,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "its-theme.ttrpg-wotc"
+      theme: "its-theme.ttrpg-dnd"
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
