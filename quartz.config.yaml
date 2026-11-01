@@ -113,8 +113,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "its-theme.ttrpg-wotc"
-      mode: both
+      theme: "umbra"
+      mode:
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
