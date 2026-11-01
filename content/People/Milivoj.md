@@ -12,7 +12,7 @@ connected_groups:
 ---
 
 > [!failure] Milivoj
-> ![[image.png]]
+>
 > ###### Stats
 > |  |  |
 > |--|--|

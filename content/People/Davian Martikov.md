@@ -1,6 +1,6 @@
 ---
 title: Davian Martikov
-draft: true
+draft: false
 aliases:
   - Davian
 tags: Category/People
@@ -13,11 +13,8 @@ connected_groups:
 status: healthy
 ---
 
-
-
-
 > [!failure]  Davian Martikov
-> 
+> ![[davian-martikov.jpg]]
 > ###### Stats
 > |  |  |
 > |--|--|
@@ -37,21 +34,21 @@ A gruff, no nonsense elderly man, the leader of the Martikov family. Also the le
 The patched green cloak he wears has clearly seen better days, but appears to have been proudly decorated with clusters of raven's feathers meticulously sewn into the cowl and shoulders, as well as a menagerie of nearly a dozen old pewter medallions and trinkets that have been haphazardly stitched into the fabric. His weight leans against an old wooden cane, its wide surface carved with intricate patterns of grapes and vines, and his thick fingers tap impatiently against its edge.
 
 # Connections
+[[The Keepers of the Feather]] - Leader of the wereraven spy network, connected across Barovia.
 
 ## Quests:
 [[The Stolen Gem]] - The winery runs on the magic of gems, gifted from the Weaver long ago.
 
-## Groups:
-The Keepers of the Feather - A network of spies across barovia, lead by the Martikov wereraven family.
 # Relationships
-
-
-# Lore
-The sister of the current Burgomaster of Barovia, and current desire of Strahd. Strahd charmed his way into the mansion, killed her father, and bit Ireena, but didnt turn her. 
-
-She has been dying her hair black with a mix of charcoal, since being bitten. Also travels with a red scarf around her neck.
-
-Met with the Baron to negotiate the refugees entrance into the town.
-
-# Images
-![[ireena-hair-and-skin-tone-colour-variations-art-v0-l5o0etb66klg1.png|hmed]]
+- [[Urwin Martikov]] - Estranged son
+- [[Danika Dorakova]] - Urwin's wife, and Davian's daughter-in-law.
+- Adrian Martikov - Older brother to Urwin
+- Elvir Martikov - Urwin's younger brother by ten years, twin brother to Elric
+- Elric Martikov - Joined Doru's rebellion, captured by Ludmilla, leading to Baba Lysaga targeting the Keepers. Muriel Vinshaw's ex husband.
+- Stefania Martikov - Urwin's older sister, by 5 years. Dag's wife.
+- Dag Tomescu - Married Stefania. Davian's son-in-law.
+- Claudiu Martikov - Teenage daughter
+- Martin Martikov - young boy, maybe 10, Davian's son.
+- Viggo Martikov - young boy, maybe 8 Davian's son.
+- Yolanda Martikov - Infant. Newest member of the Martikov family, Dag and Stefania's daughter.
+- [[Muriel Vinshaw]] - Daughter-in-law. Was married to Elric.

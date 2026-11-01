@@ -3,9 +3,8 @@ title: Argynvostholt
 aliases:
 draft: false
 tags:
-  - Category/Place
+  - Category/Hub
 MyContainer: "[[Region of Barovia]]"
-MyCategory: Nesting
 ---
 # Description
 ???

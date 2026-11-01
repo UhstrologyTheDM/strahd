@@ -28,6 +28,7 @@ Handouts - Any handouts the party has received
 - [[Kolyan's Letter of Introduction]]- Letter of introduction the party can use to gain audience with influential member of society... possibly.
 - [[Lady Wachter's Invitation]] - A formal invite to join Lady Wachter for dinner on Neyavr 4th at Sundown.
 - [[Van Richten's Guide to Vampires]]- The foremost expert's guide.
+- [[Ancient Tome]] - An ancient locked tome with the Zarovich crest on top. Obtained from Leo Dilisnya in the Ethereal realm.
 
  Hubs - city, town, village, encampment, keep, fortress, stronghold
 - [[Castle Ravenloft]] - Count Strahd's seat of power.
@@ -36,13 +37,16 @@ Handouts - Any handouts the party has received
 - [[Town of Vallaki]] - a fortified town in the middle of Barovia, where All will be well!
 - [[Vallaki Vistani Encampment]] - Just southwest of Vallaki. Vistani and Dusk Elves.
 - [[Village of Krezk]] - Where the Abbey of St Markovia is, a safe place for Ireena, maybe. 
+- [[The Wizard of Wines]] - Winery and vineyard of Barovia; home to the Keepers of the Feather.
+- [[Yester Hill]] - The Forest Folk's place of worship. Location of the Gulthias tree.
 
 People - the NPCs
- - [[Arabelle]] - Granddaughter of Madame Eva.
- - [[Arrigal]] - Brother to Luvash, Uncle to Arabelle.
- - [[Baron Vargas Vallakovich]] - Burgomaster of Vallaki.
+ - [[Arabelle]] - Granddaughter of Madame Eva. Strahd has orders for his spies to locate girls looking like her.
+ - [[Arrigal]] - Brother to Luvash, Uncle to Arabelle. Strahd's spy. Is feeding false information to Strahd about Arabelle.
+ - [[Baron Vargas Vallakovich]] - Burgomaster of Vallaki. Currently located in the Wizard Tower.
  - [[Bildrath Cantemir]] - Owner of Bildrath's Mercantiles.
  - [[Danika Dorakova]]- Shrewd but kind owner of Blue Water Inn.
+ - [[Davian Martikov]] - Patriarch of the Martikov family, Owner of the Wizard of Wines, and leader of the Keepers of the Feather.
  - [[Doru]] - Vampire Spawn son of the priest in Barovia. 
  - [[Dr. Rudolph Van Richten]] - Scholar, monster hunter extraordinaire. Alter ego is Rictavio.
  - [[Father Donavich]] - Priest in Barovia. Doru's dad.
@@ -54,15 +58,17 @@ People - the NPCs
  - [[Izek Strazni]] - Captain of the Vallaki Blackcloaks. Has dolls of Ireena made.
  - [[Kolyan Indirovich]] - Former Burgomaster of Barovia.
  - [[Lady Fiona Wachter]] - Noblewoman in Vallaki.
+ - [[Ludmilla]] - One of Strahd's brides
  - [[Luvash]] - Leader of the Vallaki Vistani Encampment, father of Arabelle.
  - [[Madam Eva]] - A Seer at Tser Pool.
  - [[Milivoj]] - Groundskeeper at St Andral's Church. Stole the Bones for platinum to feed his family.
- - [[Parriwimple]] - slow, giant of young man. Bildrath's nephew.
+ - [[Muriel Vinshaw]] - Wereraven, keeper of the feather, and spunky friend ofthe party.
+ - [[Parriwimple]] - slow, giant of a young man. Bildrath's nephew.
  - [[Rahadin]] - Announced Strahd's will during the siege of Barovia. Slaughtered the Noble line of Dusk Elves, and genocided the women. 
- - [[Stella Wachter]] - Daughter of Fiona Wachter. Stuck in the Ethereal realm, and time is running out!
+ - [[Stella Wachter]] - Daughter of Fiona Wachter. Rescued her soul from the Ethereal realm, and recovered an item foretold by the Fortunes of Ravenloft.
  - [[Strahd Von Zarovich]] - The Lord of Ravenloft.
  - [[Urwin Martikov]]- Owner of Blue Water Inn. Kind, great cook.
- - [[Viktor Vallakovich]] - Baron Vargas's Son. Hoping to save Stella from the Ethereal realm.
+ - [[Viktor Vallakovich]] - Baron Vargas's Son. A powerful spellcaster.
 
 Places - notable locations inside of hubs
 
@@ -115,10 +121,12 @@ Points of Interest - dungeons, encounters, landmarks (East to West, as encounter
 - [[Khazan's Wizard Tower]]- A tower with a permanent antimagic spell, and a rune locked door. A wagon, some paint, and a corpseless headsman.
 
 Quests - major and minor quests
+- [[Fortunes of Ravenloft]] - Five Cards, Five Fortunes. **Major Quest.**
+- [[Escort Ireena]] - Take Ireena to Krezk, they have an Abby that should be safe.
+- [[The Walls of Krezk]] - Baron Dmitri Krezkov charged you with Scrying on his son through the witch Baba Lysaga to gain entrance to the town of Krezk.
+- [[The Stolen Gem]] - Retrieve the gem the druids stole from the Wizard of Wines and stop the ritual!
 - [[Escape from Death House - Finished]] - Make it out alive!
 - [[Night of the Living Dead - Finished]] - Zombie invasion in a small town. Double tap. 
-- [[Escort Ireena]] - Take Ireena to Krezk, they have an Abby that should be safe.
-- [[Fortunes of Ravenloft]] - Five Cards, Five Fortunes. **Major Quest.**
 - [[Arabelle's Nameday - Finished]] - Get a gift for the birthday girl!
 - [[The Missing Vistani - Finished]] - The birthday girl is missing, and there's been a moida!
 - [[Stella's Soul - Finished]] - Ethereal plane shenanigans

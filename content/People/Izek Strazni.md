@@ -22,7 +22,7 @@ connected_groups:
 > | Age | Adult |
 > | Home | [[Town of Vallaki]]|
 > | Location | [[Town of Vallaki]]|
-> | Status | unknown  |
+> | Status | Dead  |
 
 # At a Glance
 The Captain of the Black Cloaks of Vallaki, and Baron Vargas' right hand man. Speaking of right hands, his is a devil's, and can throw fire. An enforcer, if there ever was one.

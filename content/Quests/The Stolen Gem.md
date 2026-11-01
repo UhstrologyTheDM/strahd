@@ -3,7 +3,7 @@ tags:
   - Category/Quest
 MyContainer: "[[The Wizard of Wines]]"
 MyCategory: Quest
-questObtained: true
+questObtained: false
 questStatus: Finished
 questGiver: Davian Martikov
 questLocationObtained: "[[The Wizard of Wines]]"

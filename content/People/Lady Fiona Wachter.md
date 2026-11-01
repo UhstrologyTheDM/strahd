@@ -13,7 +13,7 @@ connected_groups:
 ---
 
 > [!failure] Lady Fiona Wachter
-> ![[content/z_assets/lady-wachter.jpg|500]]
+> ![[lady-wachter.webp|500]]
 > ###### Stats
 > |  |  |
 > |--|--|

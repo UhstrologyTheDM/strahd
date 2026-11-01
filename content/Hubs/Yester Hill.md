@@ -21,9 +21,7 @@ MyCategory: Commerce
 The druids who worship Strahd as lord of the land and master of the weather convene here, atop Yester Hill, on the very edge of Strahd's domain. This hill is also where the evil blights that walk the Svalich Woods are born
 
 # Notable NPCs
-- [[Davian Martikov]] - Owner of the winery, patron of the Martikov family, and Leader of the Keepers of the Feather.
-- 
-- 
+
 
 # Quests
 [[The Stolen Gem]] - Davian told you about the Gems used to grow the grapes for the wine, and how druids have stolen it. He asked you to stop a ritual atop [[Yester Hill]] and retrieve the gem. 
