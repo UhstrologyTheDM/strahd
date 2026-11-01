@@ -13,7 +13,7 @@ connected_groups:
 ---
 
 > [!INFOBOX] Dmitri Krezkov
-> ![[Dmitri_Krezkov.jpg|500]]
+> 
 > ###### Stats
 > |  |  |
 > |--|--|
