@@ -20,6 +20,7 @@ Groups - cults, cultures, guilds, military organizations, religions
 - [[The Keepers of the Feather]]
 
 Handouts - Any handouts the party has received
+- [[Ancient Tome]] - An ancient locked tome with the Zarovich crest on top. Obtained from Leo Dilisnya in the Ethereal realm.
 - [[Arturi's Manuscript]] - Treatise on The Werewolf's Curse.
 - [[Burned Journal Page]]- Page from Dr. Rudolph Van Richten's journal.
 - [[Death House Basement Layout]] - Layout of the rooms of death house basement.
@@ -28,7 +29,7 @@ Handouts - Any handouts the party has received
 - [[Kolyan's Letter of Introduction]]- Letter of introduction the party can use to gain audience with influential member of society... possibly.
 - [[Lady Wachter's Invitation]] - A formal invite to join Lady Wachter for dinner on Neyavr 4th at Sundown.
 - [[Van Richten's Guide to Vampires]]- The foremost expert's guide.
-- [[Ancient Tome]] - An ancient locked tome with the Zarovich crest on top. Obtained from Leo Dilisnya in the Ethereal realm.
+- [[Van Richten's Note]] - a note from the ancient tome. Written by van Richten, as determined by comparing handwriting.
 
  Hubs - city, town, village, encampment, keep, fortress, stronghold
 - [[Castle Ravenloft]] - Count Strahd's seat of power.
