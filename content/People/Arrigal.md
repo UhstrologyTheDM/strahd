@@ -26,7 +26,7 @@ connected_groups: The Vistani
 # At a Glance
 Arrigal is Luvash’s enforcer and adviser: a cautious, cheerful, and curious man who prefers to remain aloof from the troubles of others. To those he trusts, Arrigal is a dedicated uncle, a fierce advocate for the Vistani, and a duelist with a slew of deadly skills.
 
-[[Dr. Rudolph Van Richten]]exposed him as a spy for Strahd after he approached the party in the stockyards in the [[Town of Vallaki]], accusing Van Richten of kidnapping Arabelle. After hashing out the misunderstanding using a Talisman of Echoes, and convincing Arrigal "Rictavio"'s story was true, the party manacled Arrigal and took him and Arabelle to the Vistani encampment. There they told Luvash of the spies amongst the camp, and the party convinced Arrigal to feed false information to Strahd. He agreed, though he had no guarantee for how long, or even *if*, Strahd would fall for the ruse.
+[[Dr. Rudolph Van Richten]] exposed him as a spy for Strahd after he approached the party in the stockyards in the [[Town of Vallaki]], accusing Van Richten of kidnapping Arabelle. After hashing out the misunderstanding using a Talisman of Echoes, and convincing Arrigal "Rictavio"'s story was true, the party manacled Arrigal and took him and Arabelle to the Vistani encampment. There they told Luvash of the spies amongst the camp, and the party convinced Arrigal to feed false information to Strahd. He agreed, though he had no guarantee for how long, or even *if*, Strahd would fall for the ruse.
 
 # Connections
 [[The Vistani]]
