@@ -43,6 +43,11 @@ configuration:
         highlight: "#7a141466"
         textHighlight: "#7a141466"
 plugins:
+  - source: "@quartz-themes/core"
+    options:
+      theme: "anuppuccin"
+      variation: "mocha"
+      mode: "dark"
   - name: Fetch Quartz Theme
     run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
   - source: "@quartz-community/created-modified-date"
