@@ -34,18 +34,7 @@ After arriving in Vallaki, the party had to help Father Lucian in finding the bo
 
 The player's are urged to stop by the [[Tser Pool Encampment]] to get a reading from Madam Eva, and learn how to defeat Strahd and free themselves from Barovia.
 
-# The Journey So Far
-
-* The party left the village of Barovia.
-* They encountered two barovian scouts on the road, and a group of 5 zombies - the family the scouts were looking for not far off the path. 
-* Their they found Van Richten's stash, and laid the zombie family to rest.
-*  The party continued on, making it to the [[River Ivlis Crossroads]]. There they encountered Strahd. TCMS willingly went over to protect Ireena.
-* A lone Goliath Barbarian was fighting off a group of [[Strix]]
-* The party made it to [[Tser Pool Encampment]], staying for the night. They had their fortunes read by [[Madam Eva]].
-* The party departed early, stumbling across a watchtower with 2 graves, and two slain wolves.
-* The party made it to the Tser Falls, where they have encountered an Undead creature in Armor, standing in the middle of the bridge they need to pass.
-* The creature revealed itself as a knight of the Silver Order, an order of knights who opposed Strahd in life, and to seek out Argynvostholt to hear more.
-
+There they learned of the [[Fortunes of Ravenloft]], and the way forward to leave this land. 
 
 # People
 The following people are associated with this quest:

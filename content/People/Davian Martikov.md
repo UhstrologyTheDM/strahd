@@ -8,7 +8,7 @@ MyContainer: "[[The Wizard of Wines]]"
 char_race: Barovian
 char_gender: Female
 char_age: Adult
-connected_quests: "[[Escort Ireena]]"
+connected_quests: "[[Escort Ireena - Finished]]"
 connected_groups:
 status: healthy
 ---

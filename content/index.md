@@ -3,7 +3,7 @@ title: Welcome to Curse of Strahd - Down for the Count
 ---
 ![[reloaded cover maybe.jpg|750]]
 
->[!failure] Welcome home, such as it is. This squalid hamlet, these corrupted lands, they are yours now, and you are bound to them. Let me share with you the terrible wonders I have come to know.
+>[!failure] Welcome home, such as it is. This squalid hamlet, these corrupted lands, they are yours now, and you are bound to them. Let me share with you the terrible wonders you will come to know.
 
 This will be the campaign hub for our Curse of Strahd Down for the Count campaign! It is a place for you to easily reference everything you've come across during your journey: Rules, Session Journals, NPCs, Cities, Quests, Shops, Lore, and Handouts!
 
@@ -15,9 +15,11 @@ You guys have been awesome to run the game for, and I am looking forward to what
 Site Map:
 
 Groups - cults, cultures, guilds, military organizations, religions
-- [[The Dusk Elves]]
-- [[The Vistani]]
-- [[The Keepers of the Feather]]
+- [[The Dusk Elves]] - The remnants of a forgotten civilization
+- [[The Vistani]] - Colorful, nomadic peoples.
+- [[The Keepers of the Feather]] - a network of wereraven spies within Barovia.
+- [[The Order of the Silver Dragon]] - Knights who once opposed Strahd. There are many revenants of their order strewn about Barovia, the head of which is at Argynvostholt.
+- [[The Forest Folk]] - Druids who worship Strahd as "The Shadowed Lord." Performed the ritual at Yester Hill.
 
 Handouts - Any handouts the party has received
 - [[Ancient Tome]] - An ancient locked tome with the Zarovich crest on top. Obtained from Leo Dilisnya in the Ethereal realm.
@@ -32,6 +34,7 @@ Handouts - Any handouts the party has received
 - [[Van Richten's Note]] - a note from the ancient tome. Written by van Richten, as determined by comparing handwriting.
 
  Hubs - city, town, village, encampment, keep, fortress, stronghold
+ - [[Argynvostholt]] - Order of the Silver Dragon, Sir Godfrey Gwilym is waiting for those who would challenge Strahd.
 - [[Castle Ravenloft]] - Count Strahd's seat of power.
 - [[Village of Barovia]] - small village, under the oppressive gaze of castle ravenloft.
 - [[Tser Pool Encampment]] - a small vistani encampment.
@@ -92,8 +95,6 @@ The Town of Vallaki
 The Village of Krezk
 - The Abbey of St Markovia - A holy place, possible safe place for Ireena.
 
-[[Argynvostholt]] - Order of the Silver Dragon, Sir Godfrey Gwilym is waiting for those who would challenge Strahd.
-
 Points of Interest - dungeons, encounters, landmarks (East to West, as encountered.)
 - [[Old Svalich Road]] - The main road through Barovia.
 - [[Gates of Barovia]] - Large Gates flanked by Statues. Opened and shut automatically.
@@ -109,7 +110,7 @@ Points of Interest - dungeons, encounters, landmarks (East to West, as encounter
 - [[The Ravine]] - Wolves ambushed you, and a large wolf watched from a distance.
 - [[Tser Falls]] - You took the high road this time. A revenant on a bridge.
 - Crossroads - East to Castle Ravenloft. West to Vallaki.
-- [[Standing Stone, Raven]] - a stone circle, with a 6 foot stone slab on top. It bears a carving of a raven above a three pointed star.
+- [[Standing Stone, Raven]] - a stone circle, with a 6 foot stone slab on top. Near the windmill. It bears a carving of a raven above a three pointed star.
 - [[Durst Windmill]] - You encountered an Old Lady offering Pastries.
 - [[The Deep Woods]] - As you trekked further, flocks of ravens joined you overhead.
 - [[Ireena's Revelation]] - Ireena sees Lake Zarovich, the same lake she saw in her dream recalled at the Tser Pool Encampment fire.
@@ -118,14 +119,17 @@ Points of Interest - dungeons, encounters, landmarks (East to West, as encounter
 - [[Luna River Bridge]] - You found a small scrap of handkerchief on a log in the river, with embroidered red intials: R.V.R.
 - [[Luna River Crossroads]] - An intersection, twig blights, and scarecrows.
 - [[Lake Baratok]] - A small lake west of Vallaki. Khazan's Tower is here.
-- [[Standing Stone, Butterfly]] - A stone circle, with a 6 foot stone slab on top. It bears a carving of a butterfly.
+- [[Standing Stone, Butterfly]] - A stone circle, with a 6 foot stone slab on top. Near Szoldar's hut at Lake Baratok. It bears a carving of a butterfly.
 - [[Khazan's Wizard Tower]]- A tower with a permanent antimagic spell, and a rune locked door. A wagon, some paint, and a corpseless headsman.
+- [[Standing Stone, Wolf]] - A stone circle, with a 6 foot stone slab on top. Near the Wizard of Wines. It bears a carving of a wolf.
 
 Quests - major and minor quests
 - [[Fortunes of Ravenloft]] - Five Cards, Five Fortunes. **Major Quest.**
-- [[Escort Ireena]] - Take Ireena to Krezk, they have an Abby that should be safe.
+- [[The Journey So Far]] - a summary of everything.
 - [[The Walls of Krezk]] - Baron Dmitri Krezkov charged you with Scrying on his son through the witch Baba Lysaga to gain entrance to the town of Krezk.
 - [[The Stolen Gem]] - Retrieve the gem the druids stole from the Wizard of Wines and stop the ritual!
+- [[The Dragon Manor]] - Investigate the clues left by the silver dragon and solve the mystery of the manor
+- [[Dinner with the Devil]] - The Lord of Barovia has invited you to dinner on the last night before the new moon. (Neyavr 14th)
 - [[Escape from Death House - Finished]] - Make it out alive!
 - [[Night of the Living Dead - Finished]] - Zombie invasion in a small town. Double tap. 
 - [[Arabelle's Nameday - Finished]] - Get a gift for the birthday girl!
@@ -133,6 +137,7 @@ Quests - major and minor quests
 - [[Stella's Soul - Finished]] - Ethereal plane shenanigans
 - [[The Bones of St. Andral - Finished]] - Return the bones, to allow a ritual to be performed.
 - [[Lady Wachter's Wish - Finished]] - An invitation to dinner.
+- [[Escort Ireena - Finished]] - Ireena has decided to take her fate into her own hands, and join the party to oppose Strahd.
 
 Regions - political, cultural, or geographic subdivision of a continent
  - [[Region of Barovia]] - An Overview of the Region of Barovia.

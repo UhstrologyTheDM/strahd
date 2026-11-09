@@ -25,7 +25,7 @@ Graveyard - the graveyard for Vallaki.
 
 
 # Quests
-- [[Escort Ireena]]
+- [[Escort Ireena - Finished]]
 - [[The Bones of St. Andral - Finished]]
 
 # Services

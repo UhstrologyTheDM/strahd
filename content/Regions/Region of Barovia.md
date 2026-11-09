@@ -11,10 +11,14 @@ Rolling thunderclouds cast a gray pall over the land of Barovia. A deathly still
 The evergreen trees of the Svalich Woods climb the sides of the mountains that enclose the valley. The largest of these peaks is Mount Baratok, with its snow-covered cap and rugged slopes. Baratok's slightly smaller twin, Mount Ghakis, is mostly bald with tufts of trees here and there. Between these two mountains stands Lake Zarovich, which is fed by streams of ice-cold water pouring down the face of Mount Baratok. On the south side of the lake rests the town of Vallaki, enclosed by a palisade. East of the mountains lies the [[Village of Barovia]], shrouded in mist and bereft of walls and defenses. The dark silhouette of Castle Ravenloft looks down on this village from its perch atop a 1,000-foot-high column of rock known as the Pillarstone of Ravenloft.
 
 # Major  Hubs
+- [[Argynvostholt]]
+- [[Castle Ravenloft]]
 - [[Village of Barovia]]
 - [[Tser Pool Encampment]]
 - [[Town of Vallaki]]
-- Village of Krezk
+- [[Village of Krezk]]
+- [[The Wizard of Wines]]
+- [[Yester Hill]]
 
 
 # Minor Locations

@@ -7,7 +7,7 @@ MyContainer: "[[Kolyanovich Mansion]]"
 char_race: Barovian
 char_gender: Male
 char_age: Adult
-connected_quests: "[[Escort Ireena]]"
+connected_quests: "[[Escort Ireena - Finished]]"
 connected_groups:
 status: healthy
 ---
@@ -39,7 +39,7 @@ Groups and quests connected to the npc.
 Ismark is the Burgomaster of the [[Village of Barovia]].
 
 ## Quests 
-[[Escort Ireena]] - Ismark has asked you to help escort his sister, Ireena, to the [[Town of Villaki]], hopefully out of the view of Strahd. St. Andral's Church has hallowed ground, she should be safe there. 
+[[Escort Ireena - Finished]] - Ismark has asked you to help escort his sister, Ireena, to the [[Town of Villaki]], hopefully out of the view of Strahd. St. Andral's Church has hallowed ground, she should be safe there. 
 
 # Relationships
 [[content/People/Ireena Kolyana|Ireena Kolyana]] - Sister

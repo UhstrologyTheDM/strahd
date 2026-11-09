@@ -39,7 +39,7 @@ Upon arrival you found a shadowed town full of intrigue. The Baron rules the tow
 - [[Dr. Rudolph Van Richten]]
 
 # Quests
-- [[Escort Ireena]]
+- [[Escort Ireena - Finished]]
 - [[Arabelle's Nameday - Finished]]
 - [[The Bones of St. Andral - Finished]]
 - [[Stella's Soul - Finished]]

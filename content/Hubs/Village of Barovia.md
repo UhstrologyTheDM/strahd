@@ -40,7 +40,7 @@ The village has fallen into a state of paranoia, hopelessness, and despair. Neig
 
 # Quests
 - [[Night of the Living Dead - Finished]] - You helped defend Barovia against a horde of undead.
-- [[Escort Ireena]]- Ismark and Ireena asked you to help escort Ireena to [[Town of Vallaki]]
+- [[Escort Ireena - Finished]]- Ismark and Ireena asked you to help escort Ireena to [[Town of Vallaki]]
 - [[Fortunes of Ravenloft]] - Ismark urged you to stop by and ask Madam Eva what to do about Strahd.
 # Rumors
 - Red headed girls are bad luck: They always seem to draw the misfortune, and Strahd takes interest in them.

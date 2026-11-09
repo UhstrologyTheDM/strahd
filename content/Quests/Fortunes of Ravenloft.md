@@ -23,7 +23,7 @@ Obtain the Artifacts, defeat Strahd, and free yourselves from Barovia.
 - [x] Have your fortunes read, and learn how to escape Barovia.
 - [x] Meet Madam Eva at Midnight at the River Ivlis Crossroads
 - [x] Obtain the Knowledge of the Ancient
-- [ ]  Obtain the Holy Symbol of Great Hope
+- [ ] Obtain the Holy Symbol of Great Hope
 - [ ] Obtain the Weapon of Vengeance
 - [ ] Gather your ally
 - [ ] Confront Strahd

@@ -8,7 +8,7 @@ MyContainer: "[[Village of Barovia]]"
 char_race: Barovian
 char_gender: Female
 char_age: Adult
-connected_quests: "[[Escort Ireena]]"
+connected_quests: "[[Escort Ireena - Finished]]"
 connected_groups:
 status: healthy
 ---
@@ -41,7 +41,7 @@ She wears a polished breastplate, over a long sleeve shirt, with a red cape/skir
 # Connections
 
 ## Quests:
-[[Escort Ireena]] - take Ireena to St. Andral's church in Vallaki.
+[[Escort Ireena - Finished]] - take Ireena to St. Andral's church in Vallaki.
 
 ## Groups:
 The Barovian Refugees - as the reason for Strahd's attack, she feels responsible for the group. She will do whatever she can to get the refugees into the town.
