@@ -41,10 +41,6 @@ configuration:
         highlight: "#7a141466"
         textHighlight: "#7a141466"
 plugins:
-  - source: "@quartz-themes/core"
-    options:
-      theme: "anuppuccin"
-      mode: "both"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -117,8 +113,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "umbra"
-      mode:
+      theme: "anuppuccin"
+      mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
